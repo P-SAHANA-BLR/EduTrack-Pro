@@ -1,0 +1,7 @@
+{
+  "name": "EduTrack Pro",
+  "description": "Real-time classroom occupancy tracker, timetable automation via Gemini AI, and automated attendance monitoring system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
